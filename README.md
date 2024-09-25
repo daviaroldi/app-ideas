@@ -1,19 +1,19 @@
-## :ledger: App Ideas Collection
+## 👇 **Practice Daily on iCodeThis.com** 👇
 
-![App Ideas Image](./app-ideas.png)
+[![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+# :ledger: App Ideas Collection
 
 Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
 
 These applications are:
 
-- great for improving your coding skills :muscle:;
-- great for experimenting with new technologies 🆕;
-- great for adding to your portfolio to impress your next employer/client :file_folder:;
-- great for using as examples in tutorials (articles or videos) :page_with_curl:;
-- easy to complete and also easily extendable with new features :ok_hand:;
+-   great for improving your coding skills :muscle:;
+-   great for experimenting with new technologies 🆕;
+-   great for adding to your portfolio to impress your next employer/client :file_folder:;
+-   great for using as examples in tutorials (articles or videos) :page_with_curl:;
+-   easy to complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
@@ -69,6 +69,7 @@ required to complete them.
 | [Quiz App](./Projects/1-Beginner/Quiz-App.md)                                     | Test your knowledge by answering questions                 | 1-Beginner |
 | [Recipe App](./Projects/1-Beginner/Recipe-App.md)                                 | Recipe                                                     | 1-Beginner |
 | [Random Meal Generator](./Projects/1-Beginner/Random-Meal-Generator.md)           | Generate random meals                                      | 1-Beginner |
+| [Random Number Generator](./Projects/1-Beginner/Random-Number-Generator.md)       | Generate random number between range.                      | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/1-Beginner/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                           | 1-Beginner |
 | [Slider Design](./Projects/1-Beginner/Slider-Design.md)                           | Display images using a slider control                      | 1-Beginner |
 | [Stopwatch App](./Projects/1-Beginner/Stopwatch-App.md)                           | Count time spent on activities                             | 1-Beginner |
@@ -84,10 +85,11 @@ required to complete them.
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
-| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediate |
+| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                     | Create a basic calculator cli.                     | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediate |
 | [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediate |
+| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                   | 2-Intermediate |
 | [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
 | [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
@@ -165,8 +167,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ### Main Contributors 🙂🙂
 
-- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
-- **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
+-   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
+-   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
 
 ## 100Days100Projects 🚀
 
